@@ -10,6 +10,36 @@
     },
     "items": [
         {
+            "id": "https://bigtear.com/publii-zhu-ti-de-fan-yihan-hua.html",
+            "url": "https://bigtear.com/publii-zhu-ti-de-fan-yihan-hua.html",
+            "title": "Publii 主题的翻译、汉化",
+            "summary": "目前 Publii 的主题不是很多，我用的 Taste 有的地方是英文的内容，需要进行修改 官方提供了翻译主题的功能，直接使用即可 以我用的 Taste 主题为例： 比如我修改后的内容： { \"partials\": { \"menu\": { \"menu\": \"菜单\" }, \"pagination\": {&hellip;",
+            "content_html": "\n  <p>\n    目前 Publii 的主题不是很多，我用的 Taste 有的地方是英文的内容，需要进行修改\n  </p>\n\n  <p>\n    官方提供了翻译主题的功能，直接使用即可\n  </p>\n\n  <p>\n    以我用的 Taste 主题为例：\n  </p>\n\n  <ol>\n    <li>在 Documents\\Publii 文件夹下操作</li><li>找到 themes\\taste\\taste.lang.json ，复制到 sites\\你的站点名字\\input\\languages\\ 文件夹下</li><li>打开复制后的文件，修改原文即可。</li>\n  </ol>\n\n  <p>\n    比如我修改后的内容：\n  </p>\n<pre class=\"line-numbers  language-json\"><code>{\n\t\"partials\": {\n\t\t\n\t\t\"menu\": {\n\t\t\t\"menu\": \"菜单\"\n\t\t},\n\n\t\t\"pagination\": {\n\t\t\t\"prev\": \"上一个\",\n\t\t\t\"next\": \"下一个\"\n\t\t},\n\n\t\t\"shareButtons\": {\n\t\t\t\"shareWithFacebook\": \"分享到 Facebook\",\n\t\t\t\"shareWithTwitter\": \"分享到 Twitter\",\n\t\t\t\"shareWithPinterest\": \"分享到 Pinterest\",\n\t\t\t\"shareWithMix\": \"分享到 Mix\",\n\t\t\t\"shareWithLinkedIn\": \"分享到 LinkedIn\",\n\t\t\t\"shareWithBuffer\": \"分享到 Buffer\",\n\t\t\t\"shareWithWhatsApp\": \"分享到 WhatsApp\"\n\t\t}\n\t},\n\n\t\"common\": {\n\t\t\"published\": \"发布于\",\n\t\t\"publishedBy\": \"由\",\n\t\t\"updated\": \"更新于\",\n\t\t\"readmore\": \"阅读\",\n\t\t\"comments\": \"评论\"\n\t},\n\n\t\"post\": {\n\t\t\"publishedBy\": \"由\",\n\t\t\"relatedPosts\": \"相关文章\",\n\t\t\"lastUpdatedDate\": \"文章上传于\",\n\t\t\"previousPost\": \"上一篇\",\n\t\t\"nextPost\": \"下一篇\"\n\t},\n\n\t\"tags\": {\n\t\t\"tagsPageTitle\": \"主题列表\"\n   },\n\n   \"author\": {\n\t\t\"visitWebsite\": \"访问主页\"\n   },\n\n\t\"error\": {\n\t\t\"404\": \"404\",\n\t\t\"message\": \"您正在寻找的页面似乎已被移动、删除或不存在。你可以回到你刚才访问的地方，或者直接进入我们的主页。\",\n\t\t\"button\": \"回到主页\"\n\t},\n\n\t\"search\": {\n      \"search\": \"搜索\",\n\t\t\"close\": \"关闭\"\n    }\n}\n</code></pre>",
+            "author": {
+                "name": "Taurus"
+            },
+            "tags": [
+                   "Publii"
+            ],
+            "date_published": "2022-08-03T20:00:21+08:00",
+            "date_modified": "2022-08-03T20:00:21+08:00"
+        },
+        {
+            "id": "https://bigtear.com/rust-toml-ku-de-shi-yong.html",
+            "url": "https://bigtear.com/rust-toml-ku-de-shi-yong.html",
+            "title": "Rust Toml 库的使用",
+            "summary": "开始",
+            "content_html": "\n    <h3>\n      开始\n    </h3>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Taurus"
+            },
+            "tags": [
+                   "Rust"
+            ],
+            "date_published": "2022-08-03T19:08:45+08:00",
+            "date_modified": "2022-08-03T19:36:02+08:00"
+        },
+        {
             "id": "https://bigtear.com/yi-ge-sshsi-yao-duo-ge-dian-nao-shi-yong.html",
             "url": "https://bigtear.com/yi-ge-sshsi-yao-duo-ge-dian-nao-shi-yong.html",
             "title": "一个ssh私钥多个电脑使用",
@@ -27,9 +57,9 @@
         {
             "id": "https://bigtear.com/alpinean-zhuang-zhong-wen.html",
             "url": "https://bigtear.com/alpinean-zhuang-zhong-wen.html",
-            "title": "Alpine安装中文",
+            "title": "Alpine 安装中文",
             "summary": "from https://blog.csdn.net/lxyoucan/article/details/117165981 我修改适配我的环境和更新内容 2022年3月19日20点32分 alpine默认是没有语言环境的,没有中文不舒服不说。有时可能还会遇到中文乱码。那就来尝试一下安装中文语言环境吧！ 查看当前语言环境 echo $LANG 我的执行结果如下： ➜ ~ echo $LANG C.UTF-8 查看当前系统是否有中文语言包 locale -a 我的执行结果如下： ➜ ~&hellip;",
-            "content_html": "<h2 id=\"from-httpsblogcsdnnetlxyoucanarticledetails117165981\">from <a href=\"https://blog.csdn.net/lxyoucan/article/details/117165981\">https://blog.csdn.net/lxyoucan/article/details/117165981</a></h2>\n<p>我修改适配我的环境和更新内容</p>\n<p>2022年3月19日20点32分</p>\n<p>alpine默认是没有语言环境的,没有中文不舒服不说。有时可能还会遇到中文<a href=\"https://so.csdn.net/so/search?q=%E4%B9%B1%E7%A0%81&amp;spm=1001.2101.3001.7020\">乱码</a>。那就来尝试一下安装中文语言环境吧！</p>\n<h1 id=\"检查语言环境\">检查语言环境</h1>\n<p>查看当前语言环境</p>\n<pre><code class=\"language-bash\">echo $LANG\n</code></pre>\n<p>我的执行结果如下：</p>\n<pre><code class=\"language-bash\">➜  ~ echo $LANG\nC.UTF-8\n</code></pre>\n<p>查看当前系统是否有中文语言包</p>\n<pre><code class=\"language-bash\">locale -a\n</code></pre>\n<p>我的执行结果如下：</p>\n<pre><code class=\"language-bash\">➜  ~ locale -a\nzsh: command not found: locale\n</code></pre>\n<p>发现没有locale命令，那么我们先要解决的问题就是locale命令的安装。</p>\n<h1 id=\"准备工作\">准备工作</h1>\n<h2 id=\"安装软件\">安装软件</h2>\n<pre><code class=\"language-bash\">sudo apk add ca-certificates wget\n# 下面内容更新在 https://github.com/sgerrand/alpine-pkg-glibc\n# 安装公钥\nsudo wget -q -O /etc/apk/keys/sgerrand.rsa.pub https://alpine-pkgs.sgerrand.com/sgerrand.rsa.pub\n#wget -q -O /etc/apk/keys/sgerrand.rsa.pub https://alpine-pkgs.sgerrand.com/sgerrand.rsa.pub\n#下载相关apk\nwget https://github.com/sgerrand/alpine-pkg-glibc/releases/download/2.35-r0/glibc-2.35-r0.apk\nwget https://github.com/sgerrand/alpine-pkg-glibc/releases/download/2.35-r0/glibc-bin-2.35-r0.apk\nwget https://github.com/sgerrand/alpine-pkg-glibc/releases/download/2.35-r0/glibc-i18n-2.35-r0.apk\n#wget https://github.com/sgerrand/alpine-pkg-glibc/releases/download/2.33-r0/glibc-2.33-r0.apk\n#wget https://github.com/sgerrand/alpine-pkg-glibc/releases/download/2.33-r0/glibc-bin-2.33-r0.apk\n#wget https://github.com/sgerrand/alpine-pkg-glibc/releases/download/2.33-r0/glibc-i18n-2.33-r0.apk\n#安装apk\nsudo apk add glibc-bin-2.35-r0.apk glibc-i18n-2.35-r0.apk glibc-2.35-r0.apk\n#apk add glibc-bin-2.33-r0.apk glibc-i18n-2.33-r0.apk glibc-2.33-r0.apk\n</code></pre>\n<p>执行结果如下：</p>\n<pre><code class=\"language-bash\">➜  ~ sudo apk add glibc-bin-2.35-r0.apk glibc-i18n-2.35-r0.apk glibc-2.35-r0.apk\n[sudo] password for taurus:\n(1/4) Installing glibc (2.35-r0)\n(2/4) Installing libc6-compat (1.2.2-r7)\n(3/4) Installing glibc-bin (2.35-r0)\n(4/4) Installing glibc-i18n (2.35-r0)\nExecuting glibc-bin-2.35-r0.trigger\nOK: 116 MiB in 47 packages\n</code></pre>\n<p>如果报错了请自己网上找答案，这里要说一下，这个方法只适用于x86平台，如果是arm的cpu需要找arm平台的apk包安装，我在Termux中就安装失败了，至今没找到合适的包（找到的包多数安装不成功，pub无效之类的）。</p>\n<p>执行下面命令，设置语言环境。</p>\n<pre><code class=\"language-bash\">sudo /usr/glibc-compat/bin/localedef -i zh_CN -f UTF-8 zh_CN.UTF-8\n# /usr/glibc-compat/bin/localedef -i zh_CN -f UTF-8 zh_CN.UTF-8\n</code></pre>\n<p>然后在环境变量中增<code>export LANG=zh_CN.UTF-8</code>\n我使用的是zsh所以加到<code>~/.zshrc</code>中</p>\n<h1 id=\"检验\">检验</h1>\n<p>安装完成后，我发现虽然LANG=zh_CN.UTF-8已经设置成功了，使用apk安装的程序也只会显示英文，比如:vim\ndate 执行结果都是英文，但是手动安装的软件已经可以显示中文了。</p>\n<p>我在想可能alpine的软件包本身就没有考虑其他的语言支持吧，自己安装的软件包才有中文。\n自己安装的nvim也是可以显示中文的。</p>\n<h1 id=\"总结\">总结</h1>\n<p>既然没有中文乱码了，那我们的任务就完成了。美中不足的就是apk安装的软件包，基本还都显示英文。</p>\n<h1 id=\"参考\">参考</h1>\n<ul>\n<li>《基于alpine制作UTF-8的jdk8镜像》\n<a href=\"https://blog.csdn.net/qq_33285112/article/details/109726538\">https://blog.csdn.net/qq_33285112/article/details/109726538</a></li>\n</ul>\n",
+            "content_html": "<blockquote>\n<p>from <a href=\"https://blog.csdn.net/lxyoucan/article/details/117165981\">https://blog.csdn.net/lxyoucan/article/details/117165981</a></p>\n</blockquote>\n<p>我修改适配我的环境和更新内容</p>\n<p>2022年3月19日20点32分</p>\n<p>alpine默认是没有语言环境的,没有中文不舒服不说。有时可能还会遇到中文<a href=\"https://so.csdn.net/so/search?q=%E4%B9%B1%E7%A0%81&amp;spm=1001.2101.3001.7020\">乱码</a>。那就来尝试一下安装中文语言环境吧！</p>\n<h1 id=\"检查语言环境\">检查语言环境</h1>\n<p>查看当前语言环境</p>\n<pre><code class=\"language-bash\">echo $LANG\n</code></pre>\n<p>我的执行结果如下：</p>\n<pre><code class=\"language-bash\">➜  ~ echo $LANG\nC.UTF-8\n</code></pre>\n<p>查看当前系统是否有中文语言包</p>\n<pre><code class=\"language-bash\">locale -a\n</code></pre>\n<p>我的执行结果如下：</p>\n<pre><code class=\"language-bash\">➜  ~ locale -a\nzsh: command not found: locale\n</code></pre>\n<p>发现没有locale命令，那么我们先要解决的问题就是locale命令的安装。</p>\n<h1 id=\"准备工作\">准备工作</h1>\n<h2 id=\"安装软件\">安装软件</h2>\n<pre><code class=\"language-bash\">sudo apk add ca-certificates wget\n# 下面内容更新在 https://github.com/sgerrand/alpine-pkg-glibc\n# 安装公钥\nsudo wget -q -O /etc/apk/keys/sgerrand.rsa.pub https://alpine-pkgs.sgerrand.com/sgerrand.rsa.pub\n#wget -q -O /etc/apk/keys/sgerrand.rsa.pub https://alpine-pkgs.sgerrand.com/sgerrand.rsa.pub\n#下载相关apk\nwget https://github.com/sgerrand/alpine-pkg-glibc/releases/download/2.35-r0/glibc-2.35-r0.apk\nwget https://github.com/sgerrand/alpine-pkg-glibc/releases/download/2.35-r0/glibc-bin-2.35-r0.apk\nwget https://github.com/sgerrand/alpine-pkg-glibc/releases/download/2.35-r0/glibc-i18n-2.35-r0.apk\n#wget https://github.com/sgerrand/alpine-pkg-glibc/releases/download/2.33-r0/glibc-2.33-r0.apk\n#wget https://github.com/sgerrand/alpine-pkg-glibc/releases/download/2.33-r0/glibc-bin-2.33-r0.apk\n#wget https://github.com/sgerrand/alpine-pkg-glibc/releases/download/2.33-r0/glibc-i18n-2.33-r0.apk\n#安装apk\nsudo apk add glibc-bin-2.35-r0.apk glibc-i18n-2.35-r0.apk glibc-2.35-r0.apk\n#apk add glibc-bin-2.33-r0.apk glibc-i18n-2.33-r0.apk glibc-2.33-r0.apk\n</code></pre>\n<p>执行结果如下：</p>\n<pre><code class=\"language-bash\">➜  ~ sudo apk add glibc-bin-2.35-r0.apk glibc-i18n-2.35-r0.apk glibc-2.35-r0.apk\n[sudo] password for taurus:\n(1/4) Installing glibc (2.35-r0)\n(2/4) Installing libc6-compat (1.2.2-r7)\n(3/4) Installing glibc-bin (2.35-r0)\n(4/4) Installing glibc-i18n (2.35-r0)\nExecuting glibc-bin-2.35-r0.trigger\nOK: 116 MiB in 47 packages\n</code></pre>\n<p>如果报错了请自己网上找答案，这里要说一下，这个方法只适用于x86平台，如果是arm的cpu需要找arm平台的apk包安装，我在Termux中就安装失败了，至今没找到合适的包（找到的包多数安装不成功，pub无效之类的）。</p>\n<p>执行下面命令，设置语言环境。</p>\n<pre><code class=\"language-bash\">sudo /usr/glibc-compat/bin/localedef -i zh_CN -f UTF-8 zh_CN.UTF-8\n# /usr/glibc-compat/bin/localedef -i zh_CN -f UTF-8 zh_CN.UTF-8\n</code></pre>\n<p>然后在环境变量中增<code>export LANG=zh_CN.UTF-8</code>\n我使用的是zsh所以加到<code>~/.zshrc</code>中</p>\n<h1 id=\"检验\">检验</h1>\n<p>安装完成后，我发现虽然LANG=zh_CN.UTF-8已经设置成功了，使用apk安装的程序也只会显示英文，比如:vim\ndate 执行结果都是英文，但是手动安装的软件已经可以显示中文了。</p>\n<p>我在想可能alpine的软件包本身就没有考虑其他的语言支持吧，自己安装的软件包才有中文。\n自己安装的nvim也是可以显示中文的。</p>\n<h1 id=\"总结\">总结</h1>\n<p>既然没有中文乱码了，那我们的任务就完成了。美中不足的就是apk安装的软件包，基本还都显示英文。</p>\n<h1 id=\"参考\">参考</h1>\n<ul>\n<li>《基于alpine制作UTF-8的jdk8镜像》\n<a href=\"https://blog.csdn.net/qq_33285112/article/details/109726538\">https://blog.csdn.net/qq_33285112/article/details/109726538</a></li>\n</ul>\n",
             "author": {
                 "name": "Taurus"
             },
@@ -37,7 +67,7 @@
                    "Linux"
             ],
             "date_published": "2022-07-28T10:57:52+08:00",
-            "date_modified": "2022-08-03T12:48:31+08:00"
+            "date_modified": "2022-08-03T13:26:32+08:00"
         }
     ]
 }

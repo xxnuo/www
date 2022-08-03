@@ -3,12 +3,139 @@
     <title>BigTear 的记录本</title>
     <link href="https://bigtear.com/feed.xml" rel="self" />
     <link href="https://bigtear.com" />
-    <updated>2022-08-03T12:48:31+08:00</updated>
+    <updated>2022-08-03T20:00:21+08:00</updated>
     <author>
         <name>Taurus</name>
     </author>
     <id>https://bigtear.com</id>
 
+    <entry>
+        <title>Publii 主题的翻译、汉化</title>
+        <author>
+            <name>Taurus</name>
+        </author>
+        <link href="https://bigtear.com/publii-zhu-ti-de-fan-yihan-hua.html"/>
+        <id>https://bigtear.com/publii-zhu-ti-de-fan-yihan-hua.html</id>
+            <category term="Publii"/>
+
+        <updated>2022-08-03T20:00:21+08:00</updated>
+            <summary>
+                <![CDATA[
+                    目前 Publii 的主题不是很多，我用的 Taste 有的地方是英文的内容，需要进行修改 官方提供了翻译主题的功能，直接使用即可 以我用的 Taste 主题为例： 比如我修改后的内容： { "partials": { "menu": { "menu": "菜单" }, "pagination": {&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    目前 Publii 的主题不是很多，我用的 Taste 有的地方是英文的内容，需要进行修改
+  </p>
+
+  <p>
+    官方提供了翻译主题的功能，直接使用即可
+  </p>
+
+  <p>
+    以我用的 Taste 主题为例：
+  </p>
+
+  <ol>
+    <li>在 Documents\Publii 文件夹下操作</li><li>找到 themes\taste\taste.lang.json ，复制到 sites\你的站点名字\input\languages\ 文件夹下</li><li>打开复制后的文件，修改原文即可。</li>
+  </ol>
+
+  <p>
+    比如我修改后的内容：
+  </p>
+<pre class="line-numbers  language-json"><code>{
+	"partials": {
+		
+		"menu": {
+			"menu": "菜单"
+		},
+
+		"pagination": {
+			"prev": "上一个",
+			"next": "下一个"
+		},
+
+		"shareButtons": {
+			"shareWithFacebook": "分享到 Facebook",
+			"shareWithTwitter": "分享到 Twitter",
+			"shareWithPinterest": "分享到 Pinterest",
+			"shareWithMix": "分享到 Mix",
+			"shareWithLinkedIn": "分享到 LinkedIn",
+			"shareWithBuffer": "分享到 Buffer",
+			"shareWithWhatsApp": "分享到 WhatsApp"
+		}
+	},
+
+	"common": {
+		"published": "发布于",
+		"publishedBy": "由",
+		"updated": "更新于",
+		"readmore": "阅读",
+		"comments": "评论"
+	},
+
+	"post": {
+		"publishedBy": "由",
+		"relatedPosts": "相关文章",
+		"lastUpdatedDate": "文章上传于",
+		"previousPost": "上一篇",
+		"nextPost": "下一篇"
+	},
+
+	"tags": {
+		"tagsPageTitle": "主题列表"
+   },
+
+   "author": {
+		"visitWebsite": "访问主页"
+   },
+
+	"error": {
+		"404": "404",
+		"message": "您正在寻找的页面似乎已被移动、删除或不存在。你可以回到你刚才访问的地方，或者直接进入我们的主页。",
+		"button": "回到主页"
+	},
+
+	"search": {
+      "search": "搜索",
+		"close": "关闭"
+    }
+}
+</code></pre>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Rust Toml 库的使用</title>
+        <author>
+            <name>Taurus</name>
+        </author>
+        <link href="https://bigtear.com/rust-toml-ku-de-shi-yong.html"/>
+        <id>https://bigtear.com/rust-toml-ku-de-shi-yong.html</id>
+            <category term="Rust"/>
+
+        <updated>2022-08-03T19:36:02+08:00</updated>
+            <summary>
+                <![CDATA[
+                    开始
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h3>
+      开始
+    </h3>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>一个ssh私钥多个电脑使用</title>
         <author>
@@ -43,7 +170,7 @@ chmod 644 id_rsa.pub
         </content>
     </entry>
     <entry>
-        <title>Alpine安装中文</title>
+        <title>Alpine 安装中文</title>
         <author>
             <name>Taurus</name>
         </author>
@@ -51,7 +178,7 @@ chmod 644 id_rsa.pub
         <id>https://bigtear.com/alpinean-zhuang-zhong-wen.html</id>
             <category term="Linux"/>
 
-        <updated>2022-08-03T12:48:31+08:00</updated>
+        <updated>2022-08-03T13:26:32+08:00</updated>
             <summary>
                 <![CDATA[
                     from https://blog.csdn.net/lxyoucan/article/details/117165981 我修改适配我的环境和更新内容 2022年3月19日20点32分 alpine默认是没有语言环境的,没有中文不舒服不说。有时可能还会遇到中文乱码。那就来尝试一下安装中文语言环境吧！ 查看当前语言环境 echo $LANG 我的执行结果如下： ➜ ~ echo $LANG C.UTF-8 查看当前系统是否有中文语言包 locale -a 我的执行结果如下： ➜ ~&hellip;
@@ -59,7 +186,9 @@ chmod 644 id_rsa.pub
             </summary>
         <content type="html">
             <![CDATA[
-                <h2 id="from-httpsblogcsdnnetlxyoucanarticledetails117165981">from <a href="https://blog.csdn.net/lxyoucan/article/details/117165981">https://blog.csdn.net/lxyoucan/article/details/117165981</a></h2>
+                <blockquote>
+<p>from <a href="https://blog.csdn.net/lxyoucan/article/details/117165981">https://blog.csdn.net/lxyoucan/article/details/117165981</a></p>
+</blockquote>
 <p>我修改适配我的环境和更新内容</p>
 <p>2022年3月19日20点32分</p>
 <p>alpine默认是没有语言环境的,没有中文不舒服不说。有时可能还会遇到中文<a href="https://so.csdn.net/so/search?q=%E4%B9%B1%E7%A0%81&amp;spm=1001.2101.3001.7020">乱码</a>。那就来尝试一下安装中文语言环境吧！</p>

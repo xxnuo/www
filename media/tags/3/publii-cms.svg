@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1398 761" style="enable-background:new 0 0 1398 761;" xml:space="preserve">
+	 <defs>
+        <style type="text/css">
+					@font-face {
+						font-family: "Inter";
+						font-style: normal;
+						font-weight: 400;
+						src: local(""), url("https://getpublii.com/assets/fonts/inter-v8-latin-regular.woff2") format("woff2");
+						font-display: swap;
+					}
+					@font-face {
+						font-family: "Inter";
+						font-style: normal;
+						font-weight: 700;
+						src: local(""), url("https://getpublii.com/assets/fonts/inter-v8-latin-700.woff2") format("woff2");
+						font-display: swap;
+					}
+        </style>
+    </defs>
+<style type="text/css">
+	.st0{fill:#F6F6F9;}
+	.st1{fill:#D7D8DC;}
+	.st2{fill:#0D8BF2;}
+	.st3{fill:#097BD6;}
+	.st4{fill:#FFFFFF;}
+	.st5{font-family:'Inter', -apple-system,BlinkMacSystemFont,&apos;Segoe UI&apos;,Roboto,Oxygen-Sans,Ubuntu,Cantarell,&apos;Helvetica Neue&apos;,sans-serif;}
+	.st6{font-size:12px;}
+	.st7{fill:#8E929D;}
+	.st8{fill:#FFC400;}
+	.st9{fill:#4E5360;}
+	.st10{fill:#EE6A5E;}
+	.st11{fill:#F6C050;}
+	.st12{fill:#61C957;}
+	.st13{fill:none;stroke:#FFFFFF;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.6667;}
+	.st14{fill:none;stroke:#DFE0E3;stroke-width:0.5;stroke-miterlimit:10;}
+	.st15{fill:none;stroke:#A3A3A3;stroke-miterlimit:10;}
+	.st16{fill:#0A6ABA;}
+	.st17{font-size:13px;}
+	.st18{fill:#02192B;}
+	.st19{fill:#686C78;}
+	.st20{fill:#333333;}
+	.st21{font-family:'Inter',-apple-system,BlinkMacSystemFont,&apos;Segoe UI&apos;,Roboto,Oxygen-Sans,Ubuntu,Cantarell,&apos;Helvetica Neue&apos;,sans-serif;}
+	.st22{font-size:17px;}
+	.st23{display:none;fill:#8E929D;}
+	.st24{fill:url(#SVGID_1_);}
+	.st25{fill:#44A3F9;}
+	.st26{fill:#3391E7;enable-background:new    ;}
+	.st27{fill:none;stroke:#7EB8F5;stroke-width:1.5;stroke-miterlimit:10;enable-background:new    ;}
+	.st28{fill:none;stroke:#CB2429;stroke-width:0.657;stroke-miterlimit:10;}
+	.st29{fill:none;stroke:#FFFFFF;stroke-linecap:round;stroke-linejoin:round;}
+	.st30{opacity:0.7;fill:#FFFFFF;enable-background:new    ;}
+</style>
+<g id="others">
+	<rect id="background" class="st0" width="1398" height="761"/>
+	<rect class="st1" width="1398" height="20"/>
+	<path class="st2" d="M1356.3,55h-147.6c-3.2,0-5.7,2.8-5.7,6.4v23.3c0,3.5,2.6,6.4,5.7,6.4h147.6c3.2,0,5.7-2.8,5.7-6.4V61.4
+		C1362,57.8,1359.4,55,1356.3,55z"/>
+	<path class="st3" d="M1356,91h-28V55h28c3.3,0,6,2.7,6,6v24C1362,88.3,1359.3,91,1356,91z"/>
+	<rect x="271" y="173.3" class="st4" width="1091.5" height="572.9"/>
+	<text transform="matrix(1.0198 0 0 1 1215.7959 76.8828)" class="st4 st5 st6">Add new post</text>
+	<path class="st7" d="M659.7,268l0.3-0.5l-0.3-0.5c-2.4-3.5-5.7-5.5-9.2-5.5c-1.5,0-2.9,0.4-4.3,1l-3.5-3.5c-0.2-0.2-0.5-0.2-0.6,0
+		s-0.2,0.5,0,0.6l3.3,3.3c-1.5,0.9-2.9,2.3-4.1,4l-0.3,0.5l0.3,0.5c2.4,3.5,5.7,5.5,9.2,5.5c1.5,0,2.9-0.4,4.3-1l3.5,3.5
+		c0.1,0.1,0.2,0.1,0.3,0.1s0.2,0,0.3-0.1c0.2-0.2,0.2-0.5,0-0.6l-3.3-3.3C657.1,271,658.5,269.7,659.7,268z M650.5,271.3
+		c-2.1,0-3.8-1.7-3.8-3.8c0-0.9,0.3-1.7,0.8-2.4l1,1c-0.3,0.4-0.4,0.9-0.4,1.4c0,1.4,1.1,2.4,2.4,2.4c0.5,0,1-0.2,1.4-0.4l1,1
+		C652.2,271,651.4,271.3,650.5,271.3z M652.5,268.9c0.3-0.4,0.4-0.9,0.4-1.4c0-0.3-0.1-0.5-0.2-0.8c-0.1,0.4-0.4,0.6-0.8,0.6
+		c-0.5,0-0.9-0.4-0.9-0.9c0-0.5,0.4-0.9,0.9-0.9c-0.4-0.3-0.9-0.5-1.4-0.5c-0.5,0-1,0.2-1.4,0.4l-1-1c0.7-0.5,1.5-0.8,2.3-0.8
+		c2.1,0,3.8,1.7,3.8,3.8c0,0.9-0.3,1.7-0.8,2.4L652.5,268.9z"/>
+	<path class="st8" d="M793.8,644.2c0.3-0.3,0.1-0.8-0.3-0.9l-4.3-0.7c-0.2,0-0.3-0.1-0.4-0.3l-1.9-4.1c-0.1-0.2-0.3-0.3-0.5-0.3
+		s-0.4,0.1-0.5,0.3l-1.9,4.1c-0.1,0.2-0.2,0.3-0.4,0.3l-4.3,0.7c-0.4,0.1-0.6,0.6-0.3,0.9l3.1,3.2c0.1,0.1,0.2,0.3,0.1,0.4l-0.7,4.5
+		c0,0.3,0.2,0.6,0.5,0.6c0.1,0,0.2,0,0.2-0.1l3.8-2.1c0.1,0,0.2-0.1,0.2-0.1s0.2,0,0.2,0.1l3.8,2.1c0.1,0,0.2,0.1,0.2,0.1
+		c0.3,0,0.6-0.3,0.5-0.6l-0.7-4.5c0-0.2,0-0.3,0.1-0.4L793.8,644.2z M789.3,646c-0.5,0.6-0.8,1.4-0.7,2.2l0.2,1.5l-1.1-0.6
+		c-0.4-0.2-0.8-0.3-1.2-0.3s-0.8,0.1-1.2,0.3l-1.1,0.6l0.2-1.5c0.1-0.8-0.1-1.6-0.7-2.2l-1.1-1.2l1.5-0.2c0.8-0.1,1.5-0.7,1.9-1.4
+		l0.6-1.2l0.6,1.2c0.4,0.8,1.1,1.3,1.9,1.4l1.5,0.2L789.3,646z"/>
+	<g>
+		<circle class="st7" cx="1378.7" cy="32.9" r="1"/>
+		<circle class="st7" cx="1378.7" cy="37.9" r="1"/>
+		<circle class="st7" cx="1378.7" cy="42.9" r="1"/>
+	</g>
+	<path class="st9" d="M344.9,65.5l-2.4-2.4c0,0,0,0,0,0c0.6-0.8,0.9-1.8,0.9-2.9c0-2.9-2.3-5.2-5.2-5.2s-5.2,2.3-5.2,5.2
+		s2.3,5.2,5.2,5.2c1.1,0,2.1-0.3,3-0.9c0,0,0,0,0,0l2.4,2.4c0.3,0.3,0.8,0.2,1.1-0.2C345,66.3,345.1,65.8,344.9,65.5z M338.2,63.8
+		c-2,0-3.6-1.6-3.6-3.6s1.6-3.6,3.6-3.6c2,0,3.6,1.6,3.6,3.6C341.8,62.2,340.2,63.8,338.2,63.8z"/>
+	<circle class="st10" cx="14" cy="10" r="4"/>
+	<circle class="st11" cx="27" cy="10" r="4"/>
+	<circle class="st12" cx="39.7" cy="10" r="4"/>
+	<path class="st13" d="M1307,68h3.8v3.8h-3.8V68z M1313.2,68v3.8h3.8V68H1313.2z M1313.2,78h3.8v-3.8h-3.8V78z M1307,78h3.8v-3.8
+		h-3.8V78z"/>
+	<polygon class="st4" points="1345,75 1348,72 1342,72 	"/>
+</g>
+<g id="borders">
+	<line class="st14" x1="271.5" y1="173.3" x2="1362.5" y2="172.3"/>
+	<line class="st14" x1="271.5" y1="129" x2="1362.5" y2="128"/>
+	<line class="st14" x1="271.5" y1="237.3" x2="1362.5" y2="236.3"/>
+	<line class="st14" x1="271.5" y1="299.3" x2="1362.5" y2="298.3"/>
+	<line class="st14" x1="271.5" y1="363.3" x2="1362.5" y2="362.3"/>
+	<line class="st14" x1="271.5" y1="425.3" x2="1362.5" y2="424.3"/>
+	<line class="st14" x1="271.5" y1="489.3" x2="1362.5" y2="488.3"/>
+	<line class="st14" x1="271.5" y1="551.3" x2="1362.5" y2="550.3"/>
+	<line class="st14" x1="271.5" y1="681.3" x2="1362.5" y2="680.3"/>
+	<line class="st14" x1="271.5" y1="615.3" x2="1362.5" y2="614.3"/>
+</g>
+<g id="checbox">
+	<path class="st15" d="M298,157h-8c-1.1,0-2-0.9-2-2v-8c0-1.1,0.9-2,2-2h8c1.1,0,2,0.9,2,2v8C300,156.1,299.1,157,298,157z"/>
+	<path class="st15" d="M298,213h-8c-1.1,0-2-0.9-2-2v-8c0-1.1,0.9-2,2-2h8c1.1,0,2,0.9,2,2v8C300,212.1,299.1,213,298,213z"/>
+	<path class="st15" d="M298,276h-8c-1.1,0-2-0.9-2-2v-8c0-1.1,0.9-2,2-2h8c1.1,0,2,0.9,2,2v8C300,275.1,299.1,276,298,276z"/>
+	<path class="st15" d="M298,339h-8c-1.1,0-2-0.9-2-2v-8c0-1.1,0.9-2,2-2h8c1.1,0,2,0.9,2,2v8C300,338.1,299.1,339,298,339z"/>
+	<path class="st15" d="M298,402h-8c-1.1,0-2-0.9-2-2v-8c0-1.1,0.9-2,2-2h8c1.1,0,2,0.9,2,2v8C300,401.1,299.1,402,298,402z"/>
+	<path class="st15" d="M298,465h-8c-1.1,0-2-0.9-2-2v-8c0-1.1,0.9-2,2-2h8c1.1,0,2,0.9,2,2v8C300,464.1,299.1,465,298,465z"/>
+	<path class="st15" d="M298,528h-8c-1.1,0-2-0.9-2-2v-8c0-1.1,0.9-2,2-2h8c1.1,0,2,0.9,2,2v8C300,527.1,299.1,528,298,528z"/>
+	<path class="st15" d="M298,591h-8c-1.1,0-2-0.9-2-2v-8c0-1.1,0.9-2,2-2h8c1.1,0,2,0.9,2,2v8C300,590.1,299.1,591,298,591z"/>
+	<path class="st15" d="M298,721h-8c-1.1,0-2-0.9-2-2v-8c0-1.1,0.9-2,2-2h8c1.1,0,2,0.9,2,2v8C300,720.1,299.1,721,298,721z"/>
+	<path class="st15" d="M298,654h-8c-1.1,0-2-0.9-2-2v-8c0-1.1,0.9-2,2-2h8c1.1,0,2,0.9,2,2v8C300,653.1,299.1,654,298,654z"/>
+</g>
+<g id="text">
+	<text transform="matrix(1 0 0 1 320.0001 211.7178)" class="st16 st5 st17">Maximum website performance thanks to fast themes</text>
+	<text transform="matrix(1 0 0 1 1257.9996 210.7178)" class="st16 st5 st17">Jonah Joel</text>
+	<text transform="matrix(1 0 0 1 1102.0005 211.0439)" class="st9 st5 st6">April 24, 2022 11:15 pm</text>
+	<text transform="matrix(1 0 0 1 1257.9996 272.7176)" class="st16 st5 st17">Codie Jem</text>
+	<text transform="matrix(1 0 0 1 1102.0005 273.0438)" class="st9 st5 st6">April 11, 2022 04:07 am</text>
+	<text transform="matrix(1 0 0 1 320.0001 273.7176)" class="st16 st5 st17">Make and manage as many websites as you want</text>
+	<text transform="matrix(1 0 0 1 320.0001 337.7178)" class="st16 st5 st17">We want everybody to make ultra-fast, secure, exciting websites</text>
+	<text transform="matrix(1 0 0 1 1257.9996 336.7178)" class="st16 st5 st17">Lamont Pace</text>
+	<text transform="matrix(1 0 0 1 1102.0005 337.0439)" class="st9 st5 st6">Mar 18, 2022 06:22 pm</text>
+	<text transform="matrix(1 0 0 1 1257.9996 398.7176)" class="st16 st5 st17">Jonah Joel</text>
+	<text transform="matrix(1 0 0 1 1102.0005 399.0438)" class="st9 st5 st6">Mar 05, 2022 01:56 am</text>
+	<text transform="matrix(1 0 0 1 320.0001 399.7176)" class="st18 st5 st17">Web Accessibility – how easily can you test your website?</text>
+	<text transform="matrix(1 0 0 1 320.0001 463.7178)" class="st19 st5 st17">One-Click Synchronization gets your website changes sorted in moments</text>
+	<text transform="matrix(1 0 0 1 1257.9996 462.7178)" class="st16 st5 st17">Jonah Joel</text>
+	<text transform="matrix(1 0 0 1 1102.0005 463.0439)" class="st9 st5 st6">Feb 27, 2022 11:37 am</text>
+	<text transform="matrix(1 0 0 1 1257.9996 524.7176)" class="st16 st5 st17">Lamont Pace</text>
+	<text transform="matrix(1 0 0 1 1102.0005 525.0438)" class="st9 st5 st6">Feb 18, 2022 05:15 pm</text>
+	<text transform="matrix(1 0 0 1 320.0001 525.7176)" class="st16 st5 st17">Intuitive post editor takes the frustration out of the blog writing experience</text>
+	<text transform="matrix(1 0 0 1 320.0001 588.7178)" class="st16 st5 st17">Websites created with Publii are based on static HTML files</text>
+	<text transform="matrix(1 0 0 1 1257.9996 588.7178)" class="st16 st5 st17">Codie Jem</text>
+	<text transform="matrix(1 0 0 1 1102.0005 589.0439)" class="st9 st5 st6">Jan 24, 2022 12:12 pm</text>
+	<text transform="matrix(1 0 0 1 320.0001 719.7178)" class="st16 st5 st17">Publii is a new kind of blogging experience; an app for building static websites directly on your desktop</text>
+	<text transform="matrix(1 0 0 1 1257.9996 719.7178)" class="st16 st5 st17">Codie Jem</text>
+	<text transform="matrix(1 0 0 1 1102.0005 719.7178)" class="st9 st5 st6">Dec 12, 2021 06:24 pm</text>
+	<text transform="matrix(1 0 0 1 1257.9996 650.7176)" class="st16 st5 st17">Lamont Pace</text>
+	<text transform="matrix(1 0 0 1 1102.0005 651.0438)" class="st9 st5 st6">Dec 14, 2021 02:22 am</text>
+	<text transform="matrix(1 0 0 1 320.0001 651.7176)" class="st16 st5 st17">Option-packed themes let you add your personal touch to your website</text>
+	<text transform="matrix(1 0 0 1 271.0001 104.0439)" class="st16 st5 st6">All (9)   </text>
+	<text transform="matrix(1 0 0 1 320.0136 154.7178)" class="st20 st5 st17">Title</text>
+	<text transform="matrix(1 0 0 1 269.9999 67.0659)" class="st20 st21 st22">Posts</text>
+	<text transform="matrix(1 0 0 1 1102.0004 155.7178)" class="st20 st5 st17">Publication date</text>
+	<text transform="matrix(1 0 0 1 1258.0004 155.7178)" class="st20 st5 st17">Author</text>
+	<path class="st23" d="M809.6,459.9L805,461l1.1-4.6l6.4-6.4l0.7,0.7l-6.4,6.4l1.4,1.4l6.4-6.4l1.4,1.4L809.6,459.9z M815.3,451.4
+		l1.4,1.4l0.7-0.7c0.8-0.8,0.8-2,0-2.8l-0.7-0.7c-0.8-0.8-2-0.8-2.8,0l-0.7,0.7l0.7,0.7L815.3,451.4z M818.5,463h-16.1
+		c-0.3,0-0.5,0.2-0.5,0.5s0.2,0.5,0.5,0.5h16.1c0.3,0,0.5-0.2,0.5-0.5S818.8,463,818.5,463z"/>
+	<text transform="matrix(1 0 0 1 476 104.0439)" class="st19 st5 st6">Hidden (2)</text>
+	<text transform="matrix(1 0 0 1 399 104.0442)" class="st19 st5 st6">Featured (1)</text>
+	<text transform="matrix(1 0 0 1 546 104.0439)" class="st19 st5 st6">Drafts (3)</text>
+	<text transform="matrix(1 0 0 1 610.0117 104.0439)" class="st19 st5 st6">Trashed (3)</text>
+	<text transform="matrix(1 0 0 1 314 104.0442)" class="st19 st5 st6">Published (6)</text>
+</g>
+<g id="sidebar">
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="113" y1="1" x2="113" y2="742" gradientTransform="matrix(1 0 0 -1 0 762)">
+		<stop  offset="0" style="stop-color:#0D8BF2"/>
+		<stop  offset="1" style="stop-color:#0B7BD6"/>
+	</linearGradient>
+	<rect y="20" class="st24" width="226" height="741"/>
+	<path class="st25" d="M202,737H27c-3.3,0-6-2.7-6-6v-30c0-3.3,2.7-6,6-6h175c3.3,0,6,2.7,6,6v30C208,734.3,205.3,737,202,737z"/>
+	<path class="st26" d="M202,129H29c-3.3,0-6-2.7-6-6v-23c0-3.3,2.7-6,6-6h173c3.3,0,6,2.7,6,6v23C208,126.3,205.3,129,202,129z"/>
+	<path class="st27" d="M200.6,687h-173c-3.3,0-6-2.7-6-6v-30c0-3.3,2.7-6,6-6h173c3.3,0,6,2.7,6,6v30
+		C206.6,684.3,203.9,687,200.6,687z"/>
+	<text transform="matrix(1 0 0 1 74.9998 720.1568)" class="st4 st5 st17">Sync your website</text>
+	<text transform="matrix(1 0 0 1 49.4157 671.718)" class="st4 st5 st17">Preview your changes</text>
+	<path class="st4" d="M56.7,713.3c0-0.1,0-0.1,0-0.2c0-3.7-3-6.6-6.6-6.6c-2.7,0-5,1.6-6,3.9c-0.5-0.3-1.2-0.6-1.8-0.6
+		c-1.8,0-3.7,1.5-3.7,3.3c-1.7,0.7-2.5,2.4-2.5,4.3c0,2.5,2,4.6,4.5,4.7v0h7v3.3h1.7v-3.3h6c2.2,0,4.2-1.5,4.6-3.7
+		C60.3,716.1,59.2,714,56.7,713.3z M49.2,717.6v3.8h-1.7v-3.8h-2.5l3.3-4.5l3.3,4.5H49.2z"/>
+	<text transform="matrix(1 0 0 1 68.0134 157.7176)" class="st4 st5 st17">Tags</text>
+	<text transform="matrix(1 0 0 1 68.0134 198.7176)" class="st4 st5 st17">Menus</text>
+	<text transform="matrix(1 0 0 1 68.0134 239.7176)" class="st4 st5 st17">Authors</text>
+	<text transform="matrix(1 0 0 1 68.0134 281.1098)" class="st4 st5 st17">Theme</text>
+	<text transform="matrix(1 0 0 1 68.0134 322.4398)" class="st4 st5 st17">Site settings</text>
+	<text transform="matrix(1 0 0 1 68.0134 404.7176)" class="st4 st5 st17">Tools</text>
+	<text transform="matrix(1 0 0 1 68.0132 363.7174)" class="st4 st5 st17">Server</text>
+	<path class="st28" d="M149.7,600.7"/>
+	<g>
+		<path class="st28" d="M144.5,588.5"/>
+	</g>
+	<text transform="matrix(1 0 0 1 67.9998 116.7176)" class="st4 st5 st17">Posts</text>
+	<g id="icons">
+		<path class="st13" d="M47,395.9c-0.3,0.3-0.3,0.7,0,1l1.1,1.1c0.3,0.3,0.7,0.3,1,0l2.6-2.6c0.9,2.1,0,4.5-2,5.4
+			c-1.1,0.5-2.3,0.5-3.4,0l-4.7,4.7c-0.6,0.6-1.5,0.6-2.1,0c-0.6-0.6-0.6-1.5,0-2.1l4.7-4.7c-0.9-2.1,0-4.5,2-5.4
+			c1.1-0.5,2.3-0.5,3.4,0L47,395.9L47,395.9z"/>
+		<g>
+			<path class="st13" d="M37.4,352h11.2c0.8,0,1.4,0.6,1.4,1.4v2.8c0,0.8-0.6,1.4-1.4,1.4H37.4c-0.8,0-1.4-0.6-1.4-1.4v-2.8
+				C36,352.6,36.6,352,37.4,352z"/>
+			<path class="st13" d="M37.4,360.4h11.2c0.8,0,1.4,0.6,1.4,1.4v2.8c0,0.8-0.6,1.4-1.4,1.4H37.4c-0.8,0-1.4-0.6-1.4-1.4v-2.8
+				C36,361,36.6,360.4,37.4,360.4z"/>
+			<line class="st13" x1="38.8" y1="354.8" x2="38.8" y2="354.8"/>
+			<line class="st13" x1="38.8" y1="363.2" x2="38.8" y2="363.2"/>
+		</g>
+		<g>
+			<circle class="st13" cx="42.5" cy="317.5" r="2"/>
+			<path class="st13" d="M47.5,319.5c-0.2,0.4-0.1,0.9,0.2,1.2l0,0c0.5,0.5,0.5,1.4,0,1.9c0,0,0,0,0,0c-0.5,0.5-1.4,0.5-1.9,0
+				c0,0,0,0,0,0l0,0c-0.3-0.3-0.8-0.4-1.2-0.2c-0.4,0.2-0.7,0.6-0.7,1v0.1c0,0.8-0.6,1.4-1.4,1.4c-0.8,0-1.4-0.6-1.4-1.4v-0.1
+				c0-0.5-0.3-0.9-0.7-1c-0.4-0.2-0.9-0.1-1.2,0.2l0,0c-0.5,0.5-1.4,0.5-1.9,0c0,0,0,0,0,0c-0.5-0.5-0.5-1.4,0-1.9c0,0,0,0,0,0l0,0
+				c0.3-0.3,0.4-0.8,0.2-1.2c-0.2-0.4-0.6-0.7-1-0.7h-0.1c-0.8,0-1.4-0.6-1.4-1.4s0.6-1.4,1.4-1.4h0.1c0.5,0,0.9-0.3,1-0.7
+				c0.2-0.4,0.1-0.9-0.2-1.2l0,0c-0.5-0.5-0.5-1.4,0-1.9c0,0,0,0,0,0c0.5-0.5,1.4-0.5,1.9,0c0,0,0,0,0,0l0,0
+				c0.3,0.3,0.8,0.4,1.2,0.2h0.1c0.4-0.2,0.7-0.6,0.7-1v-0.1c0-0.8,0.6-1.4,1.4-1.4s1.4,0.6,1.4,1.4v0.1c0,0.4,0.3,0.9,0.7,1
+				c0.4,0.2,0.9,0.1,1.2-0.2l0,0c0.5-0.5,1.4-0.5,1.9,0c0,0,0,0,0,0c0.5,0.5,0.5,1.4,0,1.9c0,0,0,0,0,0l0,0
+				c-0.3,0.3-0.4,0.8-0.2,1.2v0.1c0.2,0.4,0.6,0.7,1,0.7h0.1c0.8,0,1.4,0.6,1.4,1.4s-0.6,1.4-1.4,1.4h-0.1
+				C48.1,318.9,47.7,319.1,47.5,319.5z"/>
+		</g>
+		<g>
+			<line class="st13" x1="38.2" y1="283" x2="38.2" y2="277.9"/>
+			<line class="st13" x1="38.2" y1="275.1" x2="38.2" y2="270"/>
+			<line class="st13" x1="43.9" y1="283" x2="43.9" y2="276.5"/>
+			<line class="st13" x1="43.9" y1="273.6" x2="43.9" y2="270"/>
+			<line class="st13" x1="49.7" y1="283" x2="49.7" y2="279.4"/>
+			<line class="st13" x1="49.7" y1="276.5" x2="49.7" y2="270"/>
+			<line class="st13" x1="36" y1="277.9" x2="40.3" y2="277.9"/>
+			<line class="st13" x1="41.8" y1="273.6" x2="46.1" y2="273.6"/>
+			<line class="st13" x1="47.6" y1="279.4" x2="51.9" y2="279.4"/>
+		</g>
+		<g>
+			<path class="st13" d="M46.7,242v-1.4c0-1.6-1.2-2.9-2.7-2.9h-5.3c-1.5,0-2.7,1.3-2.7,2.9v1.4"/>
+			<ellipse class="st13" cx="41.3" cy="231.9" rx="2.7" ry="2.9"/>
+			<path class="st13" d="M50.7,242v-1.4c0-1.3-0.8-2.5-2-2.8"/>
+			<path class="st13" d="M46,229.1c1.4,0.4,2.3,2,1.9,3.5c-0.2,1-1,1.8-1.9,2.1"/>
+		</g>
+		<g>
+			<line class="st13" x1="36" y1="194.5" x2="49.5" y2="194.5"/>
+			<line class="st13" x1="36" y1="190" x2="49.5" y2="190"/>
+			<line class="st13" x1="36" y1="199" x2="49.5" y2="199"/>
+		</g>
+		<path class="st13" d="M48.6,154.7l-4.9,4.9c-0.5,0.5-1.4,0.5-1.9,0c0,0,0,0,0,0l-5.8-5.8V147h6.8l5.8,5.8
+			C49.1,153.4,49.1,154.2,48.6,154.7z"/>
+		<line class="st13" x1="39.4" y1="150.4" x2="39.4" y2="150.4"/>
+		<g>
+			<path class="st13" d="M42.8,118h6.8"/>
+			<path class="st13" d="M46.3,105.5c0.6-0.6,1.6-0.6,2.3,0c0.6,0.6,0.6,1.6,0,2.3l-9.5,9.5l-3,0.8l0.8-3L46.3,105.5z"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 54.0064 61.3893)" class="st4 st5 st17">Website name</text>
+	<g id="cup">
+		<path class="st29" d="M35.1,52.6h0.7c1.5,0,2.8,1.2,2.8,2.8s-1.2,2.8-2.8,2.8h-0.7"/>
+		<path class="st29" d="M23.9,52.6h11.2v6.3c0,1.5-1.2,2.8-2.8,2.8h-5.6c-1.5,0-2.8-1.2-2.8-2.8V52.6z"/>
+		<line class="st29" x1="26.7" y1="47.7" x2="26.7" y2="49.8"/>
+		<line class="st29" x1="29.5" y1="47.7" x2="29.5" y2="49.8"/>
+		<line class="st29" x1="32.3" y1="47.7" x2="32.3" y2="49.8"/>
+	</g>
+	<polygon class="st30" points="202,58 205,55 199,55 	"/>
+</g>
+</svg>
