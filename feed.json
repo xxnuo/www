@@ -42,17 +42,19 @@
         {
             "id": "https://bigtear.com/yi-ge-sshsi-yao-duo-ge-dian-nao-shi-yong.html",
             "url": "https://bigtear.com/yi-ge-sshsi-yao-duo-ge-dian-nao-shi-yong.html",
-            "title": "一个ssh私钥多个电脑使用",
+            "title": "一个 ssh 私钥多个电脑使用",
             "summary": "ssh原目录位置： win: %USERPROFILE%\\.ssh linux: ~/.ssh 新机执行： ssh-keygen # 设置跟旧机一样就行 cd /path/to/old/ssh/folder/.ssh cp * ~/.ssh/ cd ~/.ssh chmod 600 id_rsa chmod&hellip;",
             "content_html": "<p>ssh原目录位置：</p>\n<p>win: <code>%USERPROFILE%\\.ssh</code></p>\n<p>linux: <code>~/.ssh</code></p>\n<p>新机执行：</p>\n<pre><code class=\"language-bash\">ssh-keygen # 设置跟旧机一样就行\ncd /path/to/old/ssh/folder/.ssh\ncp * ~/.ssh/\ncd ~/.ssh\nchmod 600 id_rsa\nchmod 644 id_rsa.pub\n</code></pre>\n<p>done！</p>\n",
             "author": {
                 "name": "Taurus"
             },
             "tags": [
+                   "Windows",
+                   "WSL",
                    "Linux"
             ],
             "date_published": "2022-08-03T12:35:04+08:00",
-            "date_modified": "2022-08-03T12:48:16+08:00"
+            "date_modified": "2022-08-03T20:27:38+08:00"
         },
         {
             "id": "https://bigtear.com/alpinean-zhuang-zhong-wen.html",
@@ -64,10 +66,12 @@
                 "name": "Taurus"
             },
             "tags": [
+                   "Windows",
+                   "WSL",
                    "Linux"
             ],
             "date_published": "2022-07-28T10:57:52+08:00",
-            "date_modified": "2022-08-03T13:26:32+08:00"
+            "date_modified": "2022-08-03T20:27:47+08:00"
         }
     ]
 }

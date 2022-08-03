@@ -3,7 +3,7 @@
     <title>BigTear 的记录本</title>
     <link href="https://bigtear.com/feed.xml" rel="self" />
     <link href="https://bigtear.com" />
-    <updated>2022-08-03T20:00:21+08:00</updated>
+    <updated>2022-08-03T20:27:47+08:00</updated>
     <author>
         <name>Taurus</name>
     </author>
@@ -137,15 +137,17 @@
         </content>
     </entry>
     <entry>
-        <title>一个ssh私钥多个电脑使用</title>
+        <title>一个 ssh 私钥多个电脑使用</title>
         <author>
             <name>Taurus</name>
         </author>
         <link href="https://bigtear.com/yi-ge-sshsi-yao-duo-ge-dian-nao-shi-yong.html"/>
         <id>https://bigtear.com/yi-ge-sshsi-yao-duo-ge-dian-nao-shi-yong.html</id>
+            <category term="Windows"/>
+            <category term="WSL"/>
             <category term="Linux"/>
 
-        <updated>2022-08-03T12:48:16+08:00</updated>
+        <updated>2022-08-03T20:27:38+08:00</updated>
             <summary>
                 <![CDATA[
                     ssh原目录位置： win: %USERPROFILE%\.ssh linux: ~/.ssh 新机执行： ssh-keygen # 设置跟旧机一样就行 cd /path/to/old/ssh/folder/.ssh cp * ~/.ssh/ cd ~/.ssh chmod 600 id_rsa chmod&hellip;
@@ -176,9 +178,11 @@ chmod 644 id_rsa.pub
         </author>
         <link href="https://bigtear.com/alpinean-zhuang-zhong-wen.html"/>
         <id>https://bigtear.com/alpinean-zhuang-zhong-wen.html</id>
+            <category term="Windows"/>
+            <category term="WSL"/>
             <category term="Linux"/>
 
-        <updated>2022-08-03T13:26:32+08:00</updated>
+        <updated>2022-08-03T20:27:47+08:00</updated>
             <summary>
                 <![CDATA[
                     from https://blog.csdn.net/lxyoucan/article/details/117165981 我修改适配我的环境和更新内容 2022年3月19日20点32分 alpine默认是没有语言环境的,没有中文不舒服不说。有时可能还会遇到中文乱码。那就来尝试一下安装中文语言环境吧！ 查看当前语言环境 echo $LANG 我的执行结果如下： ➜ ~ echo $LANG C.UTF-8 查看当前系统是否有中文语言包 locale -a 我的执行结果如下： ➜ ~&hellip;
