@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Book",
+    "title": "BigTear 的记录本",
     "description": "",
     "home_page_url": "https://bigtear.com",
     "feed_url": "https://bigtear.com/feed.json",
@@ -10,18 +10,19 @@
     },
     "items": [
         {
-            "id": "https://bigtear.com/alpinean-zhuang-zhong-wen-2.html",
-            "url": "https://bigtear.com/alpinean-zhuang-zhong-wen-2.html",
-            "title": "Alpine安装中文 2",
-            "summary": "## from https://blog.csdn.net/lxyoucan/article/details/117165981 我修改适配我的环境和更新内容 2022年3月19日20点32分 alpine默认是没有语言环境的,没有中文不舒服不说。有时可能还会遇到中文[乱码](https://so.csdn.net/so/search?q=乱码&amp;spm=1001.2101.3001.7020)。那就来尝试一下安装中文语言环境吧！ # 检查语言环境 查看当前语言环境 ```bash echo $LANG ``` 我的执行结果如下： ```bash ➜ ~ echo $LANG C.UTF-8&hellip;",
-            "content_html": "<div>\n<div>## from https://blog.csdn.net/lxyoucan/article/details/117165981</div>\n<br>\n<div>我修改适配我的环境和更新内容</div>\n<br>\n<div>2022年3月19日20点32分</div>\n<br>\n<div>alpine默认是没有语言环境的,没有中文不舒服不说。有时可能还会遇到中文[乱码](https://so.csdn.net/so/search?q=乱码&amp;spm=1001.2101.3001.7020)。那就来尝试一下安装中文语言环境吧！</div>\n<br>\n<div># 检查语言环境</div>\n<br>\n<div>查看当前语言环境</div>\n<br>\n<div>```bash</div>\n<div>echo $LANG</div>\n<div>```</div>\n<br>\n<div>我的执行结果如下：</div>\n<br>\n<div>```bash</div>\n<div>➜  ~ echo $LANG</div>\n<div>C.UTF-8</div>\n<div>```</div>\n<br>\n<div>查看当前系统是否有中文语言包</div>\n<br>\n<div>```bash</div>\n<div>locale -a</div>\n<div>```</div>\n<br>\n<div>我的执行结果如下：</div>\n<br>\n<div>```bash</div>\n<div>➜  ~ locale -a</div>\n<div>zsh: command not found: locale</div>\n<div>```</div>\n<br>\n<div>发现没有locale命令，那么我们先要解决的问题就是locale命令的安装。</div>\n<br>\n<div># 准备工作</div>\n<br>\n<div>## 安装软件</div>\n<br>\n<div>```bash</div>\n<div>sudo apk add ca-certificates wget</div>\n<div># 下面内容更新在 https://github.com/sgerrand/alpine-pkg-glibc</div>\n<div># 安装公钥</div>\n<div>sudo wget -q -O /etc/apk/keys/sgerrand.rsa.pub https://alpine-pkgs.sgerrand.com/sgerrand.rsa.pub</div>\n<div>#wget -q -O /etc/apk/keys/sgerrand.rsa.pub https://alpine-pkgs.sgerrand.com/sgerrand.rsa.pub</div>\n<div>#下载相关apk</div>\n<div>wget https://github.com/sgerrand/alpine-pkg-glibc/releases/download/2.35-r0/glibc-2.35-r0.apk</div>\n<div>wget https://github.com/sgerrand/alpine-pkg-glibc/releases/download/2.35-r0/glibc-bin-2.35-r0.apk</div>\n<div>wget https://github.com/sgerrand/alpine-pkg-glibc/releases/download/2.35-r0/glibc-i18n-2.35-r0.apk</div>\n<div>#wget https://github.com/sgerrand/alpine-pkg-glibc/releases/download/2.33-r0/glibc-2.33-r0.apk</div>\n<div>#wget https://github.com/sgerrand/alpine-pkg-glibc/releases/download/2.33-r0/glibc-bin-2.33-r0.apk</div>\n<div>#wget https://github.com/sgerrand/alpine-pkg-glibc/releases/download/2.33-r0/glibc-i18n-2.33-r0.apk</div>\n<div>#安装apk</div>\n<div>sudo apk add glibc-bin-2.35-r0.apk glibc-i18n-2.35-r0.apk glibc-2.35-r0.apk</div>\n<div>#apk add glibc-bin-2.33-r0.apk glibc-i18n-2.33-r0.apk glibc-2.33-r0.apk</div>\n<div>```</div>\n<br>\n<div>执行结果如下：</div>\n<br>\n<div>```bash</div>\n<div>➜  ~ sudo apk add glibc-bin-2.35-r0.apk glibc-i18n-2.35-r0.apk glibc-2.35-r0.apk</div>\n<div>[sudo] password for taurus:</div>\n<div>(1/4) Installing glibc (2.35-r0)</div>\n<div>(2/4) Installing libc6-compat (1.2.2-r7)</div>\n<div>(3/4) Installing glibc-bin (2.35-r0)</div>\n<div>(4/4) Installing glibc-i18n (2.35-r0)</div>\n<div>Executing glibc-bin-2.35-r0.trigger</div>\n<div>OK: 116 MiB in 47 packages</div>\n<div>```</div>\n<br>\n<div>如果报错了请自己网上找答案，这里要说一下，这个方法只适用于x86平台，如果是arm的cpu需要找arm平台的apk包安装，我在Termux中就安装失败了，至今没找到合适的包（找到的包多数安装不成功，pub无效之类的）。</div>\n<br>\n<div>执行下面命令，设置语言环境。</div>\n<br>\n<div>```bash</div>\n<div>sudo /usr/glibc-compat/bin/localedef -i zh_CN -f UTF-8 zh_CN.UTF-8</div>\n<div># /usr/glibc-compat/bin/localedef -i zh_CN -f UTF-8 zh_CN.UTF-8</div>\n<div>```</div>\n<br>\n<div>然后在环境变量中增`export LANG=zh_CN.UTF-8`</div>\n<div>我使用的是zsh所以加到`~/.zshrc`中</div>\n<br>\n<div># 检验</div>\n<br>\n<div>安装完成后，我发现虽然LANG=zh_CN.UTF-8已经设置成功了，使用apk安装的程序也只会显示英文，比如:vim</div>\n<div>date 执行结果都是英文，但是手动安装的软件已经可以显示中文了。</div>\n<br>\n<div>我在想可能alpine的软件包本身就没有考虑其他的语言支持吧，自己安装的软件包才有中文。</div>\n<div>自己安装的nvim也是可以显示中文的。</div>\n<br>\n<div># 总结</div>\n<br>\n<div>既然没有中文乱码了，那我们的任务就完成了。美中不足的就是apk安装的软件包，基本还都显示英文。</div>\n<br>\n<div># 参考</div>\n<br>\n<div>- 《基于alpine制作UTF-8的jdk8镜像》</div>\n<div>  https://blog.csdn.net/qq_33285112/article/details/109726538</div>\n</div>",
+            "id": "https://bigtear.com/yi-ge-sshsi-yao-duo-ge-dian-nao-shi-yong.html",
+            "url": "https://bigtear.com/yi-ge-sshsi-yao-duo-ge-dian-nao-shi-yong.html",
+            "title": "一个ssh私钥多个电脑使用",
+            "summary": "ssh原目录位置： win: %USERPROFILE%\\.ssh linux: ~/.ssh 新机执行： ssh-keygen # 设置跟旧机一样就行 cd /path/to/old/ssh/folder/.ssh cp * ~/.ssh/ cd ~/.ssh chmod 600 id_rsa chmod&hellip;",
+            "content_html": "<p>ssh原目录位置：</p>\n<p>win: <code>%USERPROFILE%\\.ssh</code></p>\n<p>linux: <code>~/.ssh</code></p>\n<p>新机执行：</p>\n<pre><code class=\"language-bash\">ssh-keygen # 设置跟旧机一样就行\ncd /path/to/old/ssh/folder/.ssh\ncp * ~/.ssh/\ncd ~/.ssh\nchmod 600 id_rsa\nchmod 644 id_rsa.pub\n</code></pre>\n<p>done！</p>\n",
             "author": {
                 "name": "Taurus"
             },
             "tags": [
+                   "Linux"
             ],
-            "date_published": "2022-07-28T10:58:18+08:00",
-            "date_modified": "2022-07-28T10:58:18+08:00"
+            "date_published": "2022-08-03T12:35:04+08:00",
+            "date_modified": "2022-08-03T12:48:16+08:00"
         },
         {
             "id": "https://bigtear.com/alpinean-zhuang-zhong-wen.html",
@@ -33,9 +34,10 @@
                 "name": "Taurus"
             },
             "tags": [
+                   "Linux"
             ],
             "date_published": "2022-07-28T10:57:52+08:00",
-            "date_modified": "2022-07-28T10:57:52+08:00"
+            "date_modified": "2022-08-03T12:48:31+08:00"
         }
     ]
 }
